@@ -57,4 +57,4 @@ My journey combines hands-on agronomic research, statistical modeling, and data 
 ## Contact
 - LinkedIn: [Sujan Chapagain](https://www.linkedin.com/in/sujan-chapagain)  
 - GitHub: [SujanChapagain](https://github.com/SujanChapagain)  
-- Email: **[sujan.chapagain@email.com](mailto:sujan.chapagain@email.com)** *(Please replace this with your actual email)*
+- Email: chapagainsujan45@gmail.com
