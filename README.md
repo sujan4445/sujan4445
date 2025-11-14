@@ -30,14 +30,13 @@ My journey combines hands-on agronomic research, statistical modeling, and data 
 
 ---
 
-## Habilidades Técnicas (Technical Skills)
-| Category | Skills |
-| :--- | :--- |
-| **Linguagens** (Languages) | **R**, Python (proficient) |
-| **Estatística** (Statistics) | Estatística, Modelos mistos (REML/BLUP), Índices de seleção (MGIDI), PCA, clustering, análise fatorial, univariada, multivariada |
-| **Data Science** | Machine Learning aplicado ao agro, pipelines reprodutíveis, APIs e automação em R |
-| **Ferramentas** (Tools) | Git/GitHub, RStudio, Quarto, Shiny |
-| **Metodologias** (Methodologies) | Metodologias ágeis, experimentação agronômica, ciência aberta e reprodutibilidade |
+| Category                  | Skills                                                                                                                                           |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages** | **R** (proficient), Python                                                                                                                       |
+| **Statistics**            | Statistical analysis, mixed models (REML/BLUP), selection indices (MGIDI), PCA, clustering, factor analysis, univariate and multivariate methods |
+| **Data Science**          | Applied machine learning for agriculture, reproducible pipelines, APIs and automation in R                                                       |
+| **Tools**                 | Git/GitHub, RStudio, Quarto, Shiny                                                                                                               |
+
 
 ---
 
