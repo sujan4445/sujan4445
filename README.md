@@ -1,7 +1,6 @@
 # Sujan Chapagain
 SujanChapagain · he/him  
-- Data-driven researcher passionate about crop protection, plant health, and statistical analysis. Lifelong learner!  
-🌱 Nepal  
+- Data-driven researcher passionate about crop protection, plant health, and statistical analysis. 
 [in/sujan-chapagain](https://www.linkedin.com/in/sujan-chapagain)  
 @sujanchapagain  
 
