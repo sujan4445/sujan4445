@@ -34,7 +34,7 @@ My journey combines hands-on agronomic research, statistical modeling, and data 
 | **Programming Languages** | **R** (proficient), Python                                                                                                                       |
 | **Statistics**            | Statistical analysis, mixed models (REML/BLUP), selection indices (MGIDI), PCA, clustering, factor analysis, univariate and multivariate methods |
 | **Data Science**          | Applied machine learning for agriculture, reproducible pipelines, APIs and automation in R                                                       |
-| **Tools**                 | Git/GitHub, RStudio, Quarto, Shiny                                                                                                               |
+| **Tools**                 | Git/GitHub, RStudio                                                                                                        |
 
 
 ---
