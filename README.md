@@ -10,13 +10,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/sujan4445">
-    <img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=1200&q=80" alt="Agricultural Research Field" width="100%" style="border-radius: 8px;" />
-  </a>
-</p>
-
 ---
 
 ## 🌿 About Me
