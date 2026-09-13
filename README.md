@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b5e20&height=210&section=header&text=Sujan%20Chapagain&fontSize=50&fontAlignY=36&desc=Data-Driven%20Researcher%20%7C%20Crop%20Protection%20%26%20Agricultural%20Data%20Science&descFontSize=18&descAlignY=60&fontFamily=Cormorant+Garamond" alt="Sujan Chapagain Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b5e20&height=230&section=header&text=Sujan%20Chapagain&fontSize=52&fontAlignY=36&desc=Data-Driven%20Researcher%20%7C%20Crop%20Protection%20%26%20Agricultural%20Data%20Science&descFontSize=18&descAlignY=60&fontFamily=Cormorant+Garamond" alt="Sujan Chapagain Header Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -23,7 +23,9 @@
 ---
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=1200&h=300&q=80" alt="3D DNA Science Banner" width="100%" style="height: 180px; object-fit: cover; border-radius: 8px;" />
+  <a href="https://github.com/sujan4445">
+    <img src="https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=1200&q=80" alt="Agricultural Field Research Banner" width="100%" style="border-radius: 8px;" />
+  </a>
 </p>
 
 ---
